@@ -255,3 +255,4 @@
 2025-06-25 19:31:50 fix edge case
 2025-04-09 22:58:09 update deployment script
 2025-06-25 08:10:09 fix async issue
+2025-03-02 23:18:20 improve logging format
