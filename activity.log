@@ -1226,3 +1226,4 @@
 2025-09-11 14:59:22 remove unused import
 2025-09-21 10:33:52 better defaults
 2025-02-10 00:00:37 update linter rules
+2025-03-17 23:09:47 fix crash issue
