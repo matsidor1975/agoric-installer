@@ -110,3 +110,4 @@
 2025-08-19 07:10:59 add helper function
 2025-06-27 11:02:54 adjust validation rules
 2025-04-28 09:19:54 stabilize build
+2025-10-07 00:43:30 patch memory leak
