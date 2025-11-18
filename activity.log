@@ -311,3 +311,4 @@
 2025-12-24 02:08:10 minor refactor
 2025-04-23 13:10:25 restructure modules
 2025-12-14 02:10:55 update CI pipeline
+2025-11-18 23:32:30 better error handling
